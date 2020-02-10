@@ -1,0 +1,21 @@
+Model,CPU,CPU specifications,GPU,Storage capacity,Removable storage,RAM,OS,Custom launcher
+OnePlus 3T,Snapdragon 821,Dual-core 2.35 GHz & Dual-core 1.6 GHz Kryo,Adreno 530,128 GB 64 GB,-,6 GB LPDDR4,Android 6.0 Marshmallow,OxygenOS
+LG V20,Snapdragon 820,Dual-core 2.15 GHz & Dual-core 1.6 GHz Kryo,Adreno 530,128 64 GB,2000 GB (2TB max) MicroSD,4 GB LPDDR4,Android 7.0 Nougat,LG UX
+Moto Z,Snapdragon 820,Dual-core 2.15 GHz & Dual-core 1.6 GHz Kryo,Adreno 530,64 32 GB,2000 GB (2TB max) MicroSD,4 GB LPDDR4,Android 6.0 Marshmallow,-
+Pixel XL,Snapdragon 821,Dual-core 2.15 GHz & Dual-core 1.6 GHz Kryo,Adreno 530,128 32 GB,-,4 GB LPDDR4,Android 7.0 Nougat,-
+Pixel,Snapdragon 821,Dual-core 2.15 GHz & Dual-core 1.6 GHz Kryo,Adreno 530,128 32 GB,-,4 GB LPDDR4,Android 7.0 Nougat,-
+Samsung Galaxy S7,Snapdragon 820 (Qualcomm Snapdragon)Exynos 8 Octa 8890 (Exynos),Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo (Qualcomm Snapdragon)Quad-core 2.6 GHz Exynos M1 & Quad-core 2.3 GHz Cortex A53 (Exynos),Adreno 530 (Qualcomm Snapdragon)Mali-T880 MP12 (Exynos),64 GB or 32 GB,256 GB microSDXC,4 GB LPDDR4,Android 8.0 Oreo,Touchwiz
+Samsung Galaxy S7 Edge,Snapdragon 820 (Qualcomm Snapdragon)Exynos 8 Octa 8890 (Exynos),Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo (Qualcomm Snapdragon)Quad-core 2.6 GHz Exynos M1 & Quad-core 2.3 GHz Cortex A53 (Exynos),Adreno 530 (Qualcomm Snapdragon)Mali-T880 MP12 (Exynos),128 GB 64 GB 32 GB,512 GB microSDXC,4 GB LPDDR4,Android 8.0 Oreo,Touchwiz
+Samsung Galaxy Note 7,Snapdragon 820 (Qualcomm Snapdragon)Exynos 8 Octa 8890 (Exynos),Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo (Qualcomm Snapdragon)Quad-core 2.6 GHz Exynos M1 & Quad-core 2.3 GHz Cortex A53 (Exynos),Adreno 530 (Qualcomm Snapdragon)Mali-T880 MP12 (Exynos),128 GB (China) 64 GB,512 GB microSDXC,6 GB (China) 4 GB,Android 6.0.1 Marshmallow,Touchwiz
+HTC 10,Snapdragon 820,Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo,Adreno 530,64 GB or 32 GB,2000 GB (2TB; max.) microSD,4 GB LPDDR4,Android 6.0 Marshmallow,Sense UI
+LG G5,Snapdragon 820,Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo,Adreno 530,32 GB,2000 GB (2TB; max.) microSDXC,4 GB LPDDR4,Android 6.0 Marshmallow,LG UX 5.0
+Sony Xperia X Performance,Snapdragon 820,Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo,Adreno 530,64 GB (Dual SIM) or 32 GB (Single SIM),2000 GB (2TB; max.) microSDXC,3 GB LPDDR4,Android 6.0 Marshmallow,Xperia UI
+Huawei P9,HiSilicon Kirin 955,Quad-core 2.5 GHz Cortex-A72,Mali-T880 MP4,32 GB,128GB (max.) microSD,3 GB,Android 6.0 Marshmallow,EMUI
+BlackBerry DTEK50,Snapdragon 617,Quad-core 1.5 GHz Cortex-A53 & Quad-core 1.2 GHz Cortex-A53,Adreno 405,16 GB,2000 GB (2TB; max.) microSDXC,3 GB LPDDR3,Android 6.0 Marshmallow,-
+Sony Xperia XZ,Snapdragon 820,Dual-core 2.15 GHz Kryo & Dual-core 1.6 GHz Kryo,Adreno 530,64 GB (Dual SIM) or 32 GB (Single SIM),2000 GB (2TB; max.) microSDXC,3 GB LPDDR3,Android 6.0 Marshmallow,-
+OnePlus 3,Snapdragon 820,Quad Core 2x 2.2 GHz & 2x 1.6 GHz,Adreno 530,64 GB,-,6 GB LPDDR4,Android 6.0 Marshmallow,OxygenOS
+Apple iPhone SE,Apple A9,Dual core 1.85 GHz ARMv8-A,-,128 GB 64 GB 32 GB or 16 GB,no external memory slot,2 GB LPDDR4,iOS 9.3 upgradeable to iOS 12,-
+Apple iPhone 7,Apple A10 Fusion,Quad core 2.3 GHz ARMv8-A,-,256 GB 128 GB or 32 GB,no external memory slot,2 GB LPDDR4,iOS 10 upgradeable to iOS 12,-
+Apple iPhone 7 Plus,Apple A10 Fusion,Quad core 2.3 GHz ARMv8-A,-,256 GB 128 GB or 32 GB,no external memory slot,3 GB LPDDR4,iOS 10 upgradeable to iOS 12,-
+BlackBerry DTEK60,Snapdragon 820,Quad-core 2x 2.15 Kryo & Quad-core 2 x1.6 GHz Kryo,Adreno 530,32 GB,2000 GB (2TB; max.) microSDXC,4 GB LPDDR3,Android 6.0 Marshmallow,-
+Microsoft Lumia 650,Snapdragon 212,Quad-core 1.3 GHz Cortex-A7,Adreno 304,16 GB,microSD,1 GB,Windows 10 Mobile,-

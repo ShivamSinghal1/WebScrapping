@@ -1,0 +1,12 @@
+Model,CPU,GPU,Storage capacity,Removable storage,RAM,OS,UI,Dimensions,Weight
+Kyocera Brigadier[9],Quad-core CPU 1.4 GHz quad-core Cortex A7 Qualcomm Snapdragon 400,Adreno 305,16 GB,microSD up to 32 GB,2 GB RAM,Android v4.4.2 kitKat,-,136.4 x 68.3 x 13.2mm,187 g
+Sharp Aquos Crystal[10],Quad-core CPU 1.2 GHz quad-core Cortex A7 Qualcomm MSM8926 Snapdragon 400,Adreno 305,8 GB,microSD up to 256 GB,1.5 GB RAM,Android v4.4.2 kitKat,-,131 x 67 x 10mm,141 g
+Lenovo Vibe X2[11],Octa-core CPU 2.0 GHz quad-core Cortex A17 + 1.69 GHz quad-core Cortex A7 MediaTek MT6595m,PowerVR Series 6 G6200,32 GB,no external memory slot,2 GB LPDDR3 RAM,Android v4.4.2 kitKat upgradable to v5.0 Lollipop,Vibe UI 2.0,140.2 x 68.6 x 7.3mm,120 g
+HTC One (M8)[12],Quad-core 2.5 GHz Krait 400 Qualcomm MSM8975AC Snapdragon 801,Adreno 330,16 GB32 GB,microSD up to 128 GB,2 GB,Android v4.4.2 kitKat upgradable to v6.0.1 Marshmallow,HTC Sense 6.0 upgradable to v7.0,146.4 x 70.6 x 9.4mm,160 g
+LG G3[13],Quad-core 2.5 GHz Krait 400 Qualcomm MSM8975AC Snapdragon 801,Adreno 330,16 GB32 GB,microSD up to 128 GB,2 GB 3 GB,Android v4.4.2 kitKat upgradable to v5.0 Lollipop,LG UX,146.3 x 74.6 x 8.9mm,149 g
+Apple iPhone 6[14],1.4 GHz dual-core Apple A8,PowerVR Series 6 GX6450,16 GB 64 GB 128 GB,no external memory slot,1 GB LPDDR3 RAM,iOS 8 upgradeable to iOS 11,SpringBoard,138.1 x 67 x 6.9 mm,129g
+Apple iPhone 6 Plus[15],1.4 GHz dual-core Apple A8,PowerVR Series 6 GX6450,16 GB 64 GB 128 GB,no external memory slot,1 GB LPDDR3 RAM,iOS 8 upgradeable to iOS 11,SpringBoard,158.1 x 77.8 x 7.1 mm,172g
+Samsung Galaxy S5[16],1.9 GHz quad-core Cortex-A15 and 1.3 GHz quad-core Cortex-A7,ARM Mali T628MP6 or Adreno 330,16 GB 32 GB,microSD up to 128 GB,2 GB LPDDR3 RAM,Android Android KitKat 4.4.2 upgradeable 6.0 Marshmallow,TouchWiz,142 x 72.5 x 8.1 mm,145g
+Samsung Galaxy Note 4[17],1.9 GHz quad-core Cortex-A57 and 1.3 GHz quad-core Cortex-A53,ARM Mali T760 or Adreno 420,32 GB,microSD up to 128 GB,3 GB LPDDR3 RAM,Android Android KitKat 4.4.4 upgradeable 5.0 Lollipop,TouchWiz,153.5 x 78.6 x 8.5 mm,176g
+Sony Xperia Z3[18],Qualcomm Snapdragon MSM8974AC 801 @ 2.5 GHz,Adreno 330,16 GB (32 GB for D6616 D6708/Z3v SO-01G SOL26 and 401SO variants),microSD up to 128 GB,3 GB LPDDR3 RAM,Android Android KitKat 4.4.4 Android Lollipop upgrade planned,-,146 x 72 x 7.3  mm,152g
+Motorola Nexus 6[19],Qualcomm Snapdragon APQ8084 805 @ 2.7 GHz,Adreno 420,32 GB 64 GB,no external memory slot,3 GB RAM,Android Android Nougat 7.1.1,-,159.3 x 83 x 10.1  mm,184g
